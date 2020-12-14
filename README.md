@@ -14,3 +14,6 @@ The Proposed system can therefore be used in real-time applications which requir
 
 The technology assures reliable and real-time(Video Stream) face detection of public-users wearing masks. Besides, the system is easy to deploy into any existing system of a business while keeping the safety and privacy of users’ data. Thus Ensuring Human Safety &amp; Human Life is the ultimate aim.
 </p>
+
+<h1 align="center">Output Screen</h1>
+<p align= "center"><img src="https://github.com/AmaanSayyad/COVID-19_Face-Mask-Recognition-Detection-/blob/main/Output_Screen.jpeg" width="950" height= "550"></p>
