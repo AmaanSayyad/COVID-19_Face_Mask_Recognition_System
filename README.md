@@ -15,4 +15,4 @@ The technology assures reliable and real-time(Video Stream) face detection of pu
 </p>
 
 <h1 align="center">Output Screen</h1>
-<p align= "center"><img src="https://github.com/AmaanSayyad/COVID-19_Face-Mask-Recognition-Detection-/blob/main/Output_Screen.jpeg" width="950" height= "550"></p>
+<p align= "center"><img src="https://github.com/AmaanSayyad/COVID-19_Face-Mask-Recognition-Detection-/blob/main/Output_Screen.jpeg" width="650" height= "400"></p>
