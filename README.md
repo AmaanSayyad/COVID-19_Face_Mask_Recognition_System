@@ -1,4 +1,3 @@
-                                           # COVID-19_Face-Mask-Recognition-Detection-
 <h1 align="center">Face Mask Detection</h1>
 
 <div align= "center">
