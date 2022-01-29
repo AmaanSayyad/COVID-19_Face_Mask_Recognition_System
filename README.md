@@ -15,13 +15,11 @@
 ### ~ A Fully Fledged, Automated Recognition and Detection System.
 ----
 
-<p>
-  
-- Face masks are crucial in minimizing the propagation of Covid-19 and are highly recommended or even obligatory in many situations. 
+- <p align="justify">Face masks are crucial in minimizing the propagation of Covid-19 and are highly recommended or even obligatory in many situations. 
 
-- The Proposed System can be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This model can be integrated with embedded systems for application in airports, railway stations, offices, schools and public places to ensure that public safety guidelines are followed.
+- <p align="justify">The Proposed System can be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This model can be integrated with embedded systems for application in airports, railway stations, offices, schools and public places to ensure that public safety guidelines are followed.
 
-- The technology assures reliable and real-time (Video Stream) & face detection of public/private users wearing masks. Besides, the system is easy to deploy into any existing system of a business while keeping the safety and privacy of users’ data. Thus Ensuring Human Safety &amp; Human Life is the ultimate aim.
+- <p align="justify">The technology assures reliable and real-time (Video Stream) & face detection of public/private users wearing masks. Besides, the system is easy to deploy into any existing system of a business while keeping the safety and privacy of users’ data. Thus Ensuring Human Safety &amp; Human Life is the ultimate aim.
 </p>
 
 ----
