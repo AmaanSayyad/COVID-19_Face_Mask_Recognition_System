@@ -40,6 +40,7 @@
 - [x] Occlusion due to scarf, mask or obstacles in front.
 - [x] The shape and color of a mask.
 - [x] Overcomes “failure to enroll or template” (FTE).
+- [x] The Model provides accurate in-percentage accuracy.
 ---
 
 <img src="https://media.giphy.com/media/42D5ycv3au9s8MQtrU/giphy.gif" width="500" />
